@@ -4,7 +4,7 @@
 This project is a part of the Udacity nanodegree in data engineering curriculum
 Sparkify is a music streaming startup which has grown their user base and song database and want to move their processes and data onto the AWS cloud for better performance.he dataset resides in S3, in a directory of JSON logs on users activity on the app, as well as directory with JSON metadata on the songs in their apps.
 
-As an data enginering, we built an ETL pipeline that extracts their data from S3, then stages them in AWS Redshift and transforms the data into set of dimensional tables for the analytics team to continue finding insights in what songs thier users are listening to. 
+As an data engineer, we built an ETL pipeline that extracts their data from S3, then stages them in AWS Redshift and transforms the data into set of dimensional tables for the analytics team to continue finding insights in what songs thier users are listening to. 
     </p>
     
 <h2>Project Dataset</h2> 
